@@ -47,7 +47,7 @@ RegisterNumber:  23012252
 
 */
 ```
-## Half Adder:
+Half Adder:
 
 module HalfAdder (A, B, sum, carry);
 input A,B;
@@ -56,7 +56,7 @@ xor (sum, A,B);
 and(carry, A,B);
 endmodule
 
-## Full Adder:
+Full Adder:
 
 module FullAdder (a,b,c, Sum, Carry);
 input a,b,c;
