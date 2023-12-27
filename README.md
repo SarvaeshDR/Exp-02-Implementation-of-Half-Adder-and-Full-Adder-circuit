@@ -74,32 +74,32 @@ RTL realization
 
 ## Half Adder:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/Screenshot%202023-12-26%20194511.png)
 
 ## Full Adder:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/Screenshot%202023-12-26%20194525.png)
 
 ### TIMING DIAGRAM
 
 ## Half Adder:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/Screenshot%202023-12-26%20194540.png)
 
 ## Full Adder:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/Screenshot%202023-12-26%20194550.png)
 
 
 ### TRUTH TABLE 
 
 ## Half Adder:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/Screenshot%202023-12-26%20194602.png)
 
 ## Full Adder:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/Screenshot%202023-12-26%20194615.png)
 
 ### Result:
 Thus the half Adder and full Adder circuits are designed and the truth tables is verified using quartus software
